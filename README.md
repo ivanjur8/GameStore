@@ -1,8 +1,11 @@
 Student
 
 Ivan Jurišić
+
 Diplomski studij informatike, 1. godina
+
 4672/DS
+
 Tema projekta je Game store. Baza podataka se sastoji od 6 tablica, i to:
 
 Kategorije,
